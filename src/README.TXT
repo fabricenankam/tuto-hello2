@@ -1,1 +1,0 @@
-guide d'installation du programme.

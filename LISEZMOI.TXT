@@ -1,2 +1,3 @@
 Guide d'utilisation de l'application
-Bien le lire
+Bien le lire avant de demarrer le programme
+(branche master)

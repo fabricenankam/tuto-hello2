@@ -1,3 +1,5 @@
 Guide d'utilisation de l'application
 Bien le lire avant de demarrer le programme
 (branche master/testing)
+Merci pour votre confiance
+(branche test)

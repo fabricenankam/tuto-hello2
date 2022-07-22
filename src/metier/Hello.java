@@ -11,8 +11,8 @@ public class Hello {
 		
 	}
 		
-	public int somme(int a, int b) {
-		return a+b;
+	public int somme(int m, int n) {
+		return m+n;
 	}
 
 }

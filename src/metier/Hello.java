@@ -7,7 +7,7 @@ public class Hello {
 	}
 	
 	public String afficherHello() {
-		return "Hello World and welcome to my TV chanel.com !";
+		return "Hello World and welcome to my TV chanel !";
 		
 	}
 		

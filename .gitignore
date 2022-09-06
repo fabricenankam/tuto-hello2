@@ -1,3 +1,5 @@
-*.TXT
+*.txt
 README
 /bin
+*.TXT
+#LISEZMOI
